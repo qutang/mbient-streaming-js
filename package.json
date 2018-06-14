@@ -1,0 +1,16 @@
+{
+  "name": "mbient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Qu Tang",
+  "license": "MIT",
+  "dependencies": {
+    "noble": "^1.9.1",
+    "node-metawear": "^1.0.1",
+    "npm": "^6.1.0"
+  }
+}
